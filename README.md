@@ -1,4 +1,4 @@
-# lancecruz.github.io
+# lancecruz1865.github.io
 Webpage for class projects in CIS
 
 # Welcome!
